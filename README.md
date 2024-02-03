@@ -1,15 +1,12 @@
 # namer_app
 
-A new Flutter project.
+A simple Flutter tutorial project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is developed while following the following tutorial:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Google Codelab: Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
